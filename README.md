@@ -8,4 +8,6 @@ After forking this repository, you can make some changes to the project, and sub
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
-For more GitHub Guides, [check out these](https://guides.github.com/) for mor info.
+For more GitHub Guides, [check out these](https://guides.github.com/) for more info.
+*[]()
+*[Mastering Wikis - Wikis on GitHub help you include documentation and other useful information about your project. This guide will help you learn how to create a wiki and add content.](https://guides.github.com/features/wikis/)
